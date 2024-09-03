@@ -1,0 +1,499 @@
+{
+  "subjects": [
+    {
+      "name": "Physics Mechanics",
+      "semester": 1,
+      "pre-requisites": [],
+      "related_professions": ["Physicist", "Research Scientist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Practical Skills"
+      ]
+    },
+    {
+      "name": "Experiment and Measurement Method for Physics",
+      "semester": 1,
+      "pre-requisites": [],
+      "related_professions": ["Lab Technician", "Research Scientist", "Quality Control Analyst"],
+      "program_learning_outcomes": [
+        "Practical Skills",
+        "Communication Skills",
+        "Digital Skills"
+      ]
+    },
+    {
+      "name": "Physic Practical",
+      "semester": 2,
+      "pre-requisites": ["Experiment and Measurement Method for Physics"],
+      "related_professions": ["Lab Technician", "Experimental Physicist", "Instrumentation Specialist"],
+      "program_learning_outcomes": [
+        "Practical Skills",
+        "Interpersonal Skills",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Wave and Optics",
+      "semester": 2,
+      "pre-requisites": ["Physics Mechanics"],
+      "related_professions": ["Optical Engineer", "Photonics Specialist", "Research Scientist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Practical Skills"
+      ]
+    },
+    {
+      "name": "Mathematical methods in Physics 1",
+      "semester": 2,
+      "pre-requisites": [],
+      "related_professions": ["Data Analyst", "Physicist", "Mathematical Modeler"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Numeracy Skills"
+      ]
+    },
+    {
+      "name": "Physical Practical 2",
+      "semester": 3,
+      "pre-requisites": ["Physic Practical"],
+      "related_professions": ["Lab Technician", "Research Scientist", "Instrumentation Specialist"],
+      "program_learning_outcomes": [
+        "Practical Skills",
+        "Interpersonal Skills",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Modern Physics",
+      "semester": 3,
+      "pre-requisites": ["Physics Mechanics"],
+      "related_professions": ["Theoretical Physicist", "Nuclear Scientist", "Researcher"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Ethics and Professionalism"
+      ]
+    },
+    {
+      "name": "Mathematical methods in Physic 2",
+      "semester": 3,
+      "pre-requisites": ["Mathematical methods in Physics 1"],
+      "related_professions": ["Data Scientist", "Physicist", "Quantitative Analyst"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Numeracy Skills"
+      ]
+    },
+    {
+      "name": "Basic Electronic",
+      "semester": 3,
+      "pre-requisites": ["Physics Mechanics"],
+      "related_professions": ["Electronics Engineer", "Circuit Designer", "Technician"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Digital Skills"
+      ]
+    },
+    {
+      "name": "Physics Practical 3",
+      "semester": 4,
+      "pre-requisites": ["Physical Practical 2"],
+      "related_professions": ["Lab Technician", "Experimental Physicist", "R&D Specialist"],
+      "program_learning_outcomes": [
+        "Practical Skills",
+        "Communication Skills",
+        "Interpersonal Skills"
+      ]
+    },
+    {
+      "name": "Electricity and magnetism",
+      "semester": 4,
+      "pre-requisites": ["Physics Mechanics", "Mathematical methods in Physics 1"],
+      "related_professions": ["Electrical Engineer", "Electromagnetics Specialist", "Research Scientist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Practical Skills"
+      ]
+    },
+    {
+      "name": "Quantum Physics",
+      "semester": 4,
+      "pre-requisites": ["Modern Physics"],
+      "related_professions": ["Quantum Physicist", "Research Scientist", "Nanotechnologist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Ethics and Professionalism"
+      ]
+    },
+    {
+      "name": "Thermodynamics Physics",
+      "semester": 4,
+      "pre-requisites": ["Physics Mechanics", "Mathematical methods in Physics 1"],
+      "related_professions": ["Thermal Engineer", "Research Scientist", "Mechanical Engineer"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Numeracy Skills"
+      ]
+    },
+    {
+      "name": "Digital Electronics",
+      "semester": 4,
+      "pre-requisites": ["Basic Electronic"],
+      "related_professions": ["Digital Systems Engineer", "Embedded Systems Engineer", "Computer Hardware Engineer"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Digital Skills"
+      ]
+    },
+    {
+      "name": "Statistical Physics",
+      "semester": 5,
+      "pre-requisites": ["Thermodynamics Physics"],
+      "related_professions": ["Data Analyst", "Statistical Physicist", "Research Scientist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Numeracy Skills"
+      ]
+    },
+    {
+      "name": "Solid State Physics",
+      "semester": 5,
+      "pre-requisites": ["Modern Physics"],
+      "related_professions": ["Materials Scientist", "Solid State Physicist", "Nanotechnologist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Practical Skills"
+      ]
+    },
+    {
+      "name": "Computational Physics and Modelling",
+      "semester": 5,
+      "pre-requisites": ["Mathematical methods in Physics 2"],
+      "related_professions": ["Computational Physicist", "Data Scientist", "Software Developer"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Digital Skills",
+        "Numeracy Skills"
+      ]
+    },
+    {
+      "name": "Advanced Electronics",
+      "semester": 5,
+      "pre-requisites": ["Digital Electronics"],
+      "related_professions": ["Electronics Engineer", "Circuit Designer", "Embedded Systems Engineer"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Digital Skills"
+      ]
+    },
+    {
+      "name": "Optoelectronics",
+      "semester": 5,
+      "pre-requisites": ["Wave and Optics"],
+      "related_professions": ["Optical Engineer", "Photonics Specialist", "Laser Engineer"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Digital Skills"
+      ]
+    },
+    {
+      "name": "Scientific Project 1",
+      "semester": 6,
+      "pre-requisites": [],
+      "related_professions": ["Research Scientist", "Project Manager", "R&D Specialist"],
+      "program_learning_outcomes": [
+        "Leadership, autonomy, and responsibility",
+        "Communication Skills",
+        "Personal Skills"
+      ]
+    },
+    {
+      "name": "Semiconductor Physics",
+      "semester": 6,
+      "pre-requisites": ["Solid State Physics"],
+      "related_professions": ["Semiconductor Engineer", "Nanotechnologist", "Materials Scientist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Practical Skills"
+      ]
+    },
+    {
+      "name": "Applied Physics In Industrial Design",
+      "semester": 6,
+      "pre-requisites": ["Physics Mechanics", "Basic Electronic"],
+      "related_professions": ["Industrial Designer", "Product Development Engineer", "R&D Specialist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Entrepreneurial Skills"
+      ]
+    },
+    {
+      "name": "Scientific Project 2",
+      "semester": 7,
+      "pre-requisites": ["Scientific Project 1"],
+      "related_professions": ["Research Scientist", "Project Manager", "R&D Specialist"],
+      "program_learning_outcomes": [
+        "Leadership, autonomy, and responsibility",
+        "Communication Skills",
+        "Personal Skills"
+      ]
+    },
+    {
+      "name": "Instrumentation Physics",
+      "semester": 7,
+      "pre-requisites": ["Physics Practical 3"],
+      "related_professions": ["Instrumentation Engineer", "Lab Technician", "R&D Specialist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Digital Skills"
+      ]
+    },
+    {
+      "name": "Noise and Vibration",
+      "semester": 6,
+      "pre-requisites": ["Wave and Optics"],
+      "related_professions": ["Acoustic Engineer", "Noise Control Engineer", "Mechanical Engineer"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Numeracy Skills"
+      ]
+    },
+    {
+      "name": "X-Ray Crystallography",
+      "semester": 6,
+      "pre-requisites": ["Solid State Physics"],
+      "related_professions": ["Crystallographer", "Materials Scientist", "Research Scientist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Practical Skills"
+      ]
+    },
+    {
+      "name": "Nuclear Physic",
+      "semester": 6,
+      "pre-requisites": ["Modern Physics"],
+      "related_professions": ["Nuclear Physicist", "Radiation Specialist", "Research Scientist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Ethics and Professionalism"
+      ]
+    },
+    {
+      "name": "Communication Electronic",
+      "semester": 6,
+      "pre-requisites": ["Basic Electronic"],
+      "related_professions": ["Telecommunications Engineer", "Broadcast Engineer", "Network Specialist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Digital Skills"
+      ]
+    },
+    {
+      "name": "Microcontroller",
+      "semester": 6,
+      "pre-requisites": ["Digital Electronics"],
+      "related_professions": ["Embedded Systems Engineer", "Robotics Engineer", "Automation Specialist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Digital Skills"
+      ]
+    },
+    {
+      "name": "Digital Signal Processing",
+      "semester": 6,
+      "pre-requisites": ["Mathematical methods in Physics 2"],
+      "related_professions": ["Signal Processing Engineer", "Audio Engineer", "Telecommunications Specialist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Digital Skills"
+      ]
+    },
+    {
+      "name": "Computer Programming",
+      "semester": 6,
+      "pre-requisites": [],
+      "related_professions": ["Software Developer", "Data Scientist", "Systems Analyst"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Digital Skills",
+        "Numeracy Skills"
+      ]
+    },
+    {
+      "name": "Special Topic in Industrial Physics",
+      "semester": 6,
+      "pre-requisites": ["Applied Physics In Industrial Design"],
+      "related_professions": ["R&D Specialist", "Industrial Physicist", "Project Manager"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Practical Skills"
+      ]
+    },
+    {
+      "name": "Electroacoustic",
+      "semester": 7,
+      "pre-requisites": ["Wave and Optics"],
+      "related_professions": ["Audio Engineer", "Acoustic Consultant", "Sound Designer"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Digital Skills"
+      ]
+    },
+    {
+      "name": "Solar Energy Technology and System",
+      "semester": 7,
+      "pre-requisites": ["Electricity and magnetism"],
+      "related_professions": ["Solar Energy Engineer", "Renewable Energy Specialist", "Sustainability Consultant"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Entrepreneurial Skills"
+      ]
+    },
+    {
+      "name": "Nanotechnology",
+      "semester": 7,
+      "pre-requisites": ["Quantum Physics"],
+      "related_professions": ["Nanotechnologist", "Materials Scientist", "Research Scientist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Practical Skills"
+      ]
+    },
+    {
+      "name": "Non-Destructive Testing",
+      "semester": 7,
+      "pre-requisites": ["X-Ray Crystallography"],
+      "related_professions": ["NDT Technician", "Quality Control Specialist", "Materials Scientist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Ethics and Professionalism"
+      ]
+    },
+    {
+      "name": "Introduction to Astronomy",
+      "semester": 7,
+      "pre-requisites": [],
+      "related_professions": ["Astronomer", "Astrophysicist", "Space Scientist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Personal Skills"
+      ]
+    },
+    {
+      "name": "Semiconductor Technology",
+      "semester": 7,
+      "pre-requisites": ["Semiconductor Physics"],
+      "related_professions": ["Semiconductor Engineer", "Materials Scientist", "Nanotechnologist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Digital Skills"
+      ]
+    },
+    {
+      "name": "Laser Physics",
+      "semester": 7,
+      "pre-requisites": ["Optoelectronics"],
+      "related_professions": ["Laser Engineer", "Photonics Specialist", "Optical Engineer"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Practical Skills",
+        "Digital Skills"
+      ]
+    },
+    {
+      "name": "Logic and Problem Solving Design in Science and Technology",
+      "semester": 1,
+      "pre-requisites": [],
+      "related_professions": ["Software Developer", "Data Analyst", "Systems Analyst"],
+      "program_learning_outcomes": [
+        "Cognitive skills",
+        "Digital Skills",
+        "Numeracy Skills"
+      ]
+    },
+    {
+      "name": "Basic Statistics",
+      "semester": 2,
+      "pre-requisites": [],
+      "related_professions": ["Data Analyst", "Statistician", "Research Scientist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Numeracy Skills",
+        "Cognitive skills"
+      ]
+    },
+    {
+      "name": "Basic Chemistry",
+      "semester": 3,
+      "pre-requisites": [],
+      "related_professions": ["Chemist", "Materials Scientist", "Chemical Engineer"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Practical Skills"
+      ]
+    },
+    {
+      "name": "Research Methodology and Scientific Writing",
+      "semester": 4,
+      "pre-requisites": [],
+      "related_professions": ["Research Scientist", "Academic", "Technical Writer"],
+      "program_learning_outcomes": [
+        "Communication Skills",
+        "Knowledge and understanding",
+        "Cognitive skills"
+      ]
+    },
+    {
+      "name": "Data Analytics in Science and Technology",
+      "semester": 4,
+      "pre-requisites": ["Basic Statistics"],
+      "related_professions": ["Data Scientist", "Data Analyst", "Research Scientist"],
+      "program_learning_outcomes": [
+        "Digital Skills",
+        "Numeracy Skills",
+        "Cognitive skills"
+      ]
+    },
+    {
+      "name": "Earth Science",
+      "semester": 5,
+      "pre-requisites": [],
+      "related_professions": ["Geoscientist", "Environmental Scientist", "Geologist"],
+      "program_learning_outcomes": [
+        "Knowledge and understanding",
+        "Cognitive skills",
+        "Practical Skills"
+      ]
+    }
+  ]
+}
